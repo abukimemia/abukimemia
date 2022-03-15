@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Data Science** & **Web Development Projects**
-- 📫 How to reach me: ...
+- 📫 How to reach me: abrahamthuita@gmail.com
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: Soccer player(**GK**)
 
