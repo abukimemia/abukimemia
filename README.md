@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Data Science** & **Web Development Projects**
 - 📫 How to reach me: abrahamthuita@gmail.com
-- 👨‍💻 All of my projects are available at [https://abrahamthuita.netlify.app/](https://abrahamthuita.netlify.app/)
+- 👨‍💻 All of my projects are available at my **[Portfolio](https://abrahamthuita.netlify.app/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: Soccer player(**GK**)
 
