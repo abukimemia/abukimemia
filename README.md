@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abraham Thuita</h1>
-<h3 align="center">A passionate Software Developer from Kenya</h3>
+<h3 align="center">A passionate Software Engineer from Kenya</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Data Science** & **Web Development Projects**
